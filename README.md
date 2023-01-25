@@ -3,7 +3,7 @@
 ## Description
 This is a webpage for my Prework notes. It's a study guide that has info on HTML, CSS, JavaScript and Git. It was made to help teach me how these four topics work, as I used all four topics to make this webpage. It has helped me to learn the more technical side that goes on behind the scenes on how to code webpages and the many layers that makes them work. It has also helped me learn about debugging, and what to do when your code breaks.
 
-https://madiscercy.github.io/Preworks-Study-Guide/
+https://madiscercy.github.io/Prework-Study-Guide/
 
 ## Installation
 
